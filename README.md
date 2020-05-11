@@ -48,7 +48,7 @@ If you have sufficiently purified starting material, HPLC may not be needed. Dir
 
 _Slide 5_
 
-Here are some of the buffer constraints. The main concerns are that particulates and detergents, although common in regular sample handling, are NOT compatible with the instrument. The buffers also need some source of hydrogen ions (H+ in acidic solutions) to create ions that the mass spectrometer manipulates and measure.
+Here are some of the buffer constraints. The main concerns are that particulates and detergents, although common in regular sample handling, are **not** compatible with the instrument. The buffers also need some source of hydrogen ions (H+ in acidic solutions) to create ions that the mass spectrometer manipulates and measure.
 
 ---
 
